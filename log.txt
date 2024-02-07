@@ -1,0 +1,48 @@
+07-02-2024 19:02:45 Sensor Speed sensor 1 sends sensor value:8370
+07-02-2024 19:02:45 Sensor Speed sensor 2 sends sensor value:30029
+07-02-2024 19:02:45 Sensor Air flow sensor 1 sends sensor value:22582
+07-02-2024 19:02:50 Sensor Speed sensor 1 sends sensor value:31359
+07-02-2024 19:02:50 Sensor Speed sensor 2 sends sensor value:11018
+07-02-2024 19:02:50 Sensor Air flow sensor 1 sends sensor value:10727
+07-02-2024 19:03:00 Sensor Speed sensor 1 sends sensor value:21206
+07-02-2024 19:03:00 Sensor Speed sensor 2 sends sensor value:6230
+07-02-2024 19:03:00 Sensor Air flow sensor 1 sends sensor value:8813
+07-02-2024 19:03:05 Sensor Speed sensor 1 sends sensor value:8910
+07-02-2024 19:03:05 Sensor Speed sensor 2 sends sensor value:31338
+07-02-2024 19:03:05 Sensor Air flow sensor 1 sends sensor value:2888
+07-02-2024 19:03:10 Sensor Speed sensor 1 sends sensor value:27597
+07-02-2024 19:03:10 Sensor Speed sensor 2 sends sensor value:16981
+07-02-2024 19:03:10 Sensor Air flow sensor 1 sends sensor value:550
+07-02-2024 19:03:15 Sensor Speed sensor 1 sends sensor value:13668
+07-02-2024 19:03:15 Sensor Speed sensor 2 sends sensor value:19657
+07-02-2024 19:03:15 Sensor Air flow sensor 1 sends sensor value:6062
+07-02-2024 19:03:20 Sensor Speed sensor 1 sends sensor value:22130
+07-02-2024 19:03:20 Sensor Speed sensor 2 sends sensor value:961
+07-02-2024 19:03:20 Sensor Air flow sensor 1 sends sensor value:10030
+07-02-2024 19:03:25 Sensor Speed sensor 1 sends sensor value:16967
+07-02-2024 19:03:25 Sensor Speed sensor 2 sends sensor value:2704
+07-02-2024 19:03:25 Sensor Air flow sensor 1 sends sensor value:10217
+07-02-2024 19:03:30 Sensor Speed sensor 1 sends sensor value:25714
+07-02-2024 19:03:30 Sensor Speed sensor 2 sends sensor value:19340
+07-02-2024 19:03:30 Sensor Air flow sensor 1 sends sensor value:28881
+07-02-2024 19:03:35 Sensor Speed sensor 1 sends sensor value:7992
+07-02-2024 19:03:35 Sensor Speed sensor 2 sends sensor value:28556
+07-02-2024 19:03:35 Sensor Air flow sensor 1 sends sensor value:2405
+07-02-2024 19:03:40 Sensor Speed sensor 1 sends sensor value:777
+07-02-2024 19:03:40 Sensor Speed sensor 2 sends sensor value:18821
+07-02-2024 19:03:40 Sensor Air flow sensor 1 sends sensor value:265
+07-02-2024 19:03:45 Sensor Speed sensor 1 sends sensor value:2560
+07-02-2024 19:03:45 Sensor Speed sensor 2 sends sensor value:12096
+07-02-2024 19:03:45 Sensor Air flow sensor 1 sends sensor value:21253
+07-02-2024 19:03:50 Sensor Speed sensor 1 sends sensor value:29021
+07-02-2024 19:03:50 Sensor Speed sensor 2 sends sensor value:27858
+07-02-2024 19:03:50 Sensor Air flow sensor 1 sends sensor value:23722
+07-02-2024 19:03:55 Sensor Speed sensor 1 sends sensor value:30059
+07-02-2024 19:03:55 Sensor Speed sensor 2 sends sensor value:1399
+07-02-2024 19:03:55 Sensor Air flow sensor 1 sends sensor value:19672
+07-02-2024 19:03:58 Sensor Speed sensor 1 sends sensor value:8609
+07-02-2024 19:03:58 Sensor Speed sensor 2 sends sensor value:28231
+07-02-2024 19:03:58 Sensor Air flow sensor 1 sends sensor value:15946
+07-02-2024 19:04:19 Sensor Speed sensor 1 sends sensor value:8677
+07-02-2024 19:04:19 Sensor Speed sensor 2 sends sensor value:24571
+07-02-2024 19:04:19 Sensor Air flow sensor 1 sends sensor value:30646

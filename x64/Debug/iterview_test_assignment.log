@@ -1,0 +1,3 @@
+﻿  iterview_test_assignment.cpp
+C:\Users\pturn\source\repos\iterview_test_assignment\iterview_test_assignment.cpp(105,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  iterview_test_assignment.vcxproj -> C:\Users\pturn\source\repos\iterview_test_assignment\x64\Debug\iterview_test_assignment.exe

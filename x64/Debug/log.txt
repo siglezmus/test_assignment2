@@ -1,0 +1,3 @@
+07-02-2024 19:05:40 Sensor Speed sensor 1 sends sensor value:8942
+07-02-2024 19:05:40 Sensor Speed sensor 2 sends sensor value:10456
+07-02-2024 19:05:40 Sensor Air flow sensor 1 sends sensor value:3084
