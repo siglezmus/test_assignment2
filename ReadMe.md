@@ -14,7 +14,9 @@ The solution should be posted on GitHub or a similar page for review.
 
 **Instructions how to run/read solution**
 
-You can clone repository and execute file test_assignment2/x64/Debug/iterview_test_assignment.exe
+You can clone repository and execute file test_assignment2/x64/Debug/iterview_test_assignment.exe to run compliled solution
+
+You will see device data being logged and appended to log file in the same location of exe file
 
 To run and debug code you should open project solution file in Visual Studio and have c++ development stuff installed 
 
